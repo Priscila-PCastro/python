@@ -136,5 +136,12 @@ df.Telefone.str.contains('[*]', na=False)
 
 
 
+salvando
+
+
+
+
+
+
 
 
