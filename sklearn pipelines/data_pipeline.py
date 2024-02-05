@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore")
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-headers = {"chave-api-dados" : "9033f3c80a2448d7dca94ef8d2c6dc4f"}
+headers = {"chave-api-dados" : "xxxxxxxxxxxx"}
 
 def run_request(url_):
   resposta = requests.get(url_, headers=headers)
